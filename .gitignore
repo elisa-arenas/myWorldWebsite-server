@@ -1,0 +1,6 @@
+node_modules
+config.js
+node_modules/apollo-server
+node_modules/graphql
+node_modules/apollo-server-core
+node_modules/apollo-server-express
